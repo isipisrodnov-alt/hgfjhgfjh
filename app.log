@@ -1,0 +1,25 @@
+nohup: ignoring input
+
+============================================================
+  Приложение 'Логист-Транс' запущено!
+============================================================
+
+Тестовые учетные данные:
+  Администратор: admin / admin123
+  Логист:        logist / logist123
+  Водитель:      driver1 / driver123
+
+Приложение доступно по адресу: http://localhost:5000
+============================================================
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://169.254.0.21:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 421-976-065
+127.0.0.1 - - [30/Jan/2026 04:38:18] "HEAD /login HTTP/1.1" 200 -
